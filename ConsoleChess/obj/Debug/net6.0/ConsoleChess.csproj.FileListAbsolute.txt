@@ -1,0 +1,15 @@
+C:\Repo\ConsoleChess\ConsoleChess\bin\Debug\net6.0\ConsoleChess.exe
+C:\Repo\ConsoleChess\ConsoleChess\bin\Debug\net6.0\ConsoleChess.deps.json
+C:\Repo\ConsoleChess\ConsoleChess\bin\Debug\net6.0\ConsoleChess.runtimeconfig.json
+C:\Repo\ConsoleChess\ConsoleChess\bin\Debug\net6.0\ConsoleChess.dll
+C:\Repo\ConsoleChess\ConsoleChess\bin\Debug\net6.0\ConsoleChess.pdb
+C:\Repo\ConsoleChess\ConsoleChess\obj\Debug\net6.0\ConsoleChess.csproj.AssemblyReference.cache
+C:\Repo\ConsoleChess\ConsoleChess\obj\Debug\net6.0\ConsoleChess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\ConsoleChess\ConsoleChess\obj\Debug\net6.0\ConsoleChess.AssemblyInfoInputs.cache
+C:\Repo\ConsoleChess\ConsoleChess\obj\Debug\net6.0\ConsoleChess.AssemblyInfo.cs
+C:\Repo\ConsoleChess\ConsoleChess\obj\Debug\net6.0\ConsoleChess.csproj.CoreCompileInputs.cache
+C:\Repo\ConsoleChess\ConsoleChess\obj\Debug\net6.0\ConsoleChess.dll
+C:\Repo\ConsoleChess\ConsoleChess\obj\Debug\net6.0\refint\ConsoleChess.dll
+C:\Repo\ConsoleChess\ConsoleChess\obj\Debug\net6.0\ConsoleChess.pdb
+C:\Repo\ConsoleChess\ConsoleChess\obj\Debug\net6.0\ConsoleChess.genruntimeconfig.cache
+C:\Repo\ConsoleChess\ConsoleChess\obj\Debug\net6.0\ref\ConsoleChess.dll
