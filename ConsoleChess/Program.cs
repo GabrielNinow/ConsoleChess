@@ -1,7 +1,12 @@
-﻿class Program
+﻿using ChessBoard;
+using ChessBoard;
+
+class Program
 {
-    public static void Main(string[] Args)
+    static void Main(string[] Args)
     {
-        Console.WriteLine("aaaaaa");
+        Board board = new Board(8, 8);
+
+        Console.WriteLine(board);
     }
 }
